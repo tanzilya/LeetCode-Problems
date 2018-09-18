@@ -1,13 +1,18 @@
 Solved:
 
 September
-18.09 - 
+18.09 - 242,
+
+
+Done by myself easy:
+242,
 
 Done with help:
-
 
 Done by myself but need attention:
 
 Need to be done:
+242 with faster sorting algorithm
 
 To do next:
+
