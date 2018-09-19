@@ -2,7 +2,7 @@ Solved:
 
 September
 18.09 - 242
-19.09 - 524
+19.09 - 524, 852
 
 Done by myself easy:
 524
@@ -11,9 +11,10 @@ Done with help:
 
 
 Done by myself but need attention:
-242
+242, 852
 
 Need to be done:
+
 
 To do next:
 
